@@ -55,8 +55,7 @@ This project is written in Python within the REMIX IDE https://remix.ethereum.or
 
 * Clone Joint_Savings.sol to your local repo and copy to Remix IDE.
 * Compile and Deploy smart contract to JavaScript London to test functionalities
-* You can either use the following Ethereum addresses or create new, dummy addresses on the Vanity-ETH website: https://vanity-eth.tk which includes an Ethereum vanity address generator. 
-* Or use the following dummy accounts:
+* You can either use the following Ethereum addresses or create new, dummy addresses on the Vanity-ETH website: https://vanity-eth.tk which includes an Ethereum vanity address generator.  Or use the following dummy accounts:
 
   * Dummy account1 address: 0x0c0669Cd5e60a6F4b8ce437E4a4A007093D368Cb
   * Dummy account2 address: 0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0
